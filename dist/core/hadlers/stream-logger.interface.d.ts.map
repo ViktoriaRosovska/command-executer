@@ -1,0 +1,1 @@
+{"version":3,"file":"stream-logger.interface.d.ts","sourceRoot":"","sources":["../../../src/core/hadlers/stream-logger.interface.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,aAAa;IAC5B,GAAG,CAAC,GAAG,IAAI,EAAE,GAAG,EAAE,GAAG,IAAI,CAAC;IAC1B,KAAK,CAAC,GAAG,IAAI,EAAE,GAAG,EAAE,GAAG,IAAI,CAAC;IAC5B,GAAG,IAAI,IAAI,CAAC;CACb"}
